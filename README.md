@@ -59,18 +59,23 @@ Mapping and visualizing how the products are grouped based on their inventory be
 
 #### 📈 Visualization Previews
 
-##### A. Optimal Cluster Evaluation (Elbow & Silhouette Method)
+##### Optimal Cluster Evaluation (Elbow & Silhouette Method)
 This chart displays the multi-metric evaluation used to determine the most ideal number of clusters (K) for Tomoro Coffee's dataset:
+
 <img width="650" alt="Evaluasi Jumlah Cluster (K)" src="https://github.com/user-attachments/assets/e882075c-3b53-4d42-bc90-f04047bd1cae" />
 
-##### B. 2D & 3D Cluster Distribution Results
+##### 2D Distribution Results
 This scatter plot visualizes how each individual unique product is mapped into its respective cluster group based on Total Sales and Average Stock:
+
 <img width="650" alt="Plot 3D" src="https://github.com/user-attachments/assets/adbfa27c-dd80-4c0a-9f14-f5256cb73cdb" />
+
+##### 3D Cluster 
 <img width="650" alt="2D" src="https://github.com/user-attachments/assets/34ede6b9-04e2-4fe4-894b-2713b50db295" />
 
 
-##### C. Cluster Characteristics Profile (Bar Chart)
+##### Cluster Characteristics Profile (Bar Chart)
 This bar chart breaks down the average performance of sales and stock levels within each cluster group for strategic profiling:
+
 <img width="650" alt="Diagram Batang" src="https://github.com/user-attachments/assets/1afeaea9-62f8-400f-b353-c956a423d8e6" />
 
 
